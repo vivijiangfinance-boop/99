@@ -34,7 +34,7 @@ int main()
         {
             cout << b << "*" << a << "=" << a * b << "  ";
         }
-        cout << endl;   // 内层循环结束后换行
+        cout << endl;  
     }
     return 0;
 }
